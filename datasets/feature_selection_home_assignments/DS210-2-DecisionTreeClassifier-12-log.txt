@@ -1,0 +1,4 @@
+Best auto estimator={'max_depth': 1}, train_score=0.760, test_score=0.768
+Best estimator={'max_depth': 5}, train_score=0.837, test_score=0.752
+Underfitting estimator={'max_depth': 1}, train_score=0.760, test_score=0.768
+Overfitting estimator={'max_depth': 13}, train_score=0.987, test_score=0.696

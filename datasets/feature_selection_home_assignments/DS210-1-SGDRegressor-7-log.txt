@@ -1,0 +1,4 @@
+Best auto estimator={'eta0': 0.001}, train_score=-6603.038, test_score=-6437.576
+Best estimator={'eta0': 0.1}, train_score=-6999.512, test_score=-7201.525
+Underfitting estimator={'eta0': 1.0}, train_score=-12805515.441, test_score=-13345094.003
+Overfitting estimator={'eta0': 0.1}, train_score=-6999.512, test_score=-7201.525

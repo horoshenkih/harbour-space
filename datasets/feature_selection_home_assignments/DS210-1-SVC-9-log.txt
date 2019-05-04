@@ -1,0 +1,4 @@
+Best auto estimator={'C': 1.0, 'gamma': 10.0}, train_score=0.811, test_score=0.712
+Best estimator={'C': 1.0, 'gamma': 100.0}, train_score=0.919, test_score=0.680
+Underfitting estimator={'C': 0.001, 'gamma': 0.1}, train_score=0.507, test_score=0.500
+Overfitting estimator={'C': 1.0, 'gamma': 10000.0}, train_score=0.997, test_score=0.576

@@ -1,0 +1,4 @@
+Best auto estimator={'alpha': 0.1, 'l1_ratio': 1.0}, train_score=-0.627, test_score=-0.938
+Best estimator={'alpha': 0.1, 'l1_ratio': 1.0}, train_score=-0.627, test_score=-0.938
+Underfitting estimator={'alpha': 1.0, 'l1_ratio': 0.01}, train_score=-26108.254, test_score=-85179.602
+Overfitting estimator={'alpha': 0.0001, 'l1_ratio': 1.0}, train_score=-0.471, test_score=-35390.029

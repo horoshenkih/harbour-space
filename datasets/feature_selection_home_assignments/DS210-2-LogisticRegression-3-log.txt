@@ -1,0 +1,4 @@
+Best auto estimator={'C': 0.005}, train_score=0.952, test_score=0.791
+Best estimator={'C': 0.0005}, train_score=0.893, test_score=0.783
+Underfitting estimator={'C': 5e-06}, train_score=0.682, test_score=0.592
+Overfitting estimator={'C': 100000.0}, train_score=1.000, test_score=0.760
